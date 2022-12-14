@@ -1,0 +1,2 @@
+global using NUnit.Framework;
+global using exercise_state_wise_temperature_average;
